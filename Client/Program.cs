@@ -15,11 +15,12 @@ namespace Client
             try
             {
                 //Creating a new Branch
-<<<<<<< HEAD
+
                 //Creating a new branch is quick AND simple.
-=======
+
                 //Creating a new branch is quick AND simple
->>>>>>> feature1
+                //Creating a new branch is quick AND simple without a fast forward style
+
                 int port = 1003;
                 string host = "123.57.41.13";
                ///创建终结点EndPoint
