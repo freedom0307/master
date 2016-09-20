@@ -15,6 +15,7 @@ namespace Client
             try
             {
                 //Creating a new Branch
+                //Creating a new branch is quick & simple.
                 int port = 1003;
                 string host = "123.57.41.13";
                ///创建终结点EndPoint
